@@ -1,0 +1,9 @@
+.claude/settings.local.json
+.DS_Store
+.env
+.mcpregistry_*
+build/
+config/
+key.pem
+node_modules/
+*.log
