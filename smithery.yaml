@@ -10,8 +10,7 @@ startCommand:
     properties:
       glifApiToken:
         type: string
-        description: API token for glif authentication, obtainable from
-          https://glif.app/settings/api-tokens
+        description: API token for glif authentication, obtainable from your glif.app account settings
   commandFunction:
     # A JS function that produces the CLI command based on the given config to start the MCP on stdio.
     |-
